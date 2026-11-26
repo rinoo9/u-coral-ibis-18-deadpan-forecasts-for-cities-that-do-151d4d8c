@@ -7,7 +7,7 @@
 A make.fun bounty entry. `main.py` writes one deadpan weather forecast line
 for Quilborough, a city that does not exist, to `/output/entry.txt`:
 
-> In Quilborough, expect 14 degrees and a light drizzle of chicken soup, with 45-kilometre-an-hour gusts blowing laundry off the rooftops until Friday.
+> In Quilborough, expect overnight lows of 3 degrees and a dense fog of gossip, clearing by noon except over the mayor's house.
 
 The forecast is absurd — rain made of chicken soup — yet delivered in the
 flat, confident tone of a TV meteorologist, with concrete numbers (14 degrees,
