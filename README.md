@@ -5,9 +5,9 @@
 # Deadpan Forecasts for Cities That Do Not Exist
 
 A make.fun bounty entry. `main.py` writes one deadpan weather forecast line
-for Quilborough, a city that does not exist, to `/output/entry.txt`:
+for Brindlewick, a city that does not exist, to `/output/entry.txt`:
 
-> In Quilborough, expect overnight lows of 3 degrees and a dense fog of gossip, clearing by noon except over the mayor's house.
+> In Brindlewick, expect scattered showers and a high of 14 degrees, with unpaid parking tickets drifting in from the east by evening.
 
 The forecast is absurd — rain made of chicken soup — yet delivered in the
 flat, confident tone of a TV meteorologist, with concrete numbers (14 degrees,
@@ -20,4 +20,4 @@ Run it with:
 python3 main.py
 ```
 
-It writes the single 149-character line to `/output/entry.txt`, deterministically.
+It writes the single 132-character line to `/output/entry.txt`, deterministically.
