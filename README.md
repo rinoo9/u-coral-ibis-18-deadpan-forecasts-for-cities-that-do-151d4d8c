@@ -5,14 +5,14 @@
 # Deadpan Forecasts for Cities That Do Not Exist
 
 A make.fun bounty entry. `main.py` writes one deadpan weather forecast line
-for Blundervost, a city that does not exist, to `/output/entry.txt`:
+for Quilborough, a city that does not exist, to `/output/entry.txt`:
 
-> In Blundervost, expect 41 degrees and a light rain of lost umbrellas, with 60-kilometre-an-hour gusts chasing hats down Market Street until Tuesday.
+> In Quilborough, expect 14 degrees and a light drizzle of chicken soup, with 45-kilometre-an-hour gusts blowing laundry off the rooftops until Friday.
 
-The forecast is absurd — rain made of lost umbrellas — yet delivered in the
-flat, confident tone of a TV meteorologist, with concrete numbers (41 degrees,
-60-kilometre-an-hour gusts) and a local consequence (hats chased down Market
-Street) that make the invented place feel real.
+The forecast is absurd — rain made of chicken soup — yet delivered in the
+flat, confident tone of a TV meteorologist, with concrete numbers (14 degrees,
+45-kilometre-an-hour gusts) and a local consequence (laundry blown off the
+rooftops) that make the invented place feel real.
 
 Run it with:
 
@@ -20,4 +20,4 @@ Run it with:
 python3 main.py
 ```
 
-It writes the single 148-character line to `/output/entry.txt`, deterministically.
+It writes the single 149-character line to `/output/entry.txt`, deterministically.
