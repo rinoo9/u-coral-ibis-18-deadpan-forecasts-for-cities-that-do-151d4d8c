@@ -7,8 +7,8 @@ to /output/entry.txt. Deterministic: the same line on every run.
 from pathlib import Path
 
 ENTRY = (
-    "In Quilborough, expect 14 degrees and a light drizzle of chicken soup, "
-    "with 45-kilometre-an-hour gusts blowing laundry off the rooftops until Friday."
+    "In Quilborough, expect overnight lows of 3 degrees and a dense fog "
+    "of gossip, clearing by noon except over the mayor's house."
 )
 
 
