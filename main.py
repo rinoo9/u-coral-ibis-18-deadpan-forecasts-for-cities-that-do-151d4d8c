@@ -1,14 +1,14 @@
-"""Deadpan forecast for Blundervost, a city that does not exist.
+"""Deadpan forecast for Quilborough, a city that does not exist.
 
-Writes exactly one forecast line (148 characters, under the 160 cap)
+Writes exactly one forecast line (under the 160-character cap)
 to /output/entry.txt. Deterministic: the same line on every run.
 """
 
 from pathlib import Path
 
 ENTRY = (
-    "In Blundervost, expect 41 degrees and a light rain of lost umbrellas, "
-    "with 60-kilometre-an-hour gusts chasing hats down Market Street until Tuesday."
+    "In Quilborough, expect 14 degrees and a light drizzle of chicken soup, "
+    "with 45-kilometre-an-hour gusts blowing laundry off the rooftops until Friday."
 )
 
 
